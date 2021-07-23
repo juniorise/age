@@ -2,7 +2,8 @@
 
 A Flutter package to calculate someone's age in days, months, and years; in addition it can be used to find the difference between two dates.
 
-> This is null safety migration of https://pub.dev/packages/age <br>
+> This is null safety version of https://pub.dev/packages/age <br>
+> I'm not owner of this.
 
 ## Getting Started
 
